@@ -105,7 +105,8 @@
     "uniqCompNum": 32,
     "versionPublish": "5.9.4",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
