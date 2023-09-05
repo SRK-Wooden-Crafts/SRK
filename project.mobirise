@@ -28,7 +28,7 @@
         "isGhostButtonBorder": true,
         "underlinedLinks": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": false
       },
       "titlePreset": "Small Business",
       "nameSelectPreset": "small",
@@ -106,7 +106,7 @@
     "versionPublish": "5.9.4",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
